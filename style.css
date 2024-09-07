@@ -1,0 +1,28 @@
+body{
+    background-color: #000000;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 22px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    color: #E0C224;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+div{
+    color: #CF57FA;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #5782FA;
+    background-color: #1F21F9;
+    border-radius: 15px;
+    border: solid 2px #57FA9C;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #C0C2C3;
+}
